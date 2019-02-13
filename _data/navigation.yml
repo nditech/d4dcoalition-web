@@ -19,6 +19,12 @@
     
   - name: Funding & Conflicts Policy
     path: conflicts-policy.md
+    
+  - name: Membership & Engagement
+    path: membership-engagement.md
+    
+  - name: Working Groups
+    path: working-groups.md
 
   - name: Privacy Policy
     path: privacy-policy.md
