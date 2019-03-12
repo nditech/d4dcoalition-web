@@ -10,9 +10,9 @@
   logo: /assets/img/logos/international-partners/IFES Name Horizontal Logo Blue.png
   id: ifes
 
-#- name: International IDEA
-#  logo: /assets/img/logos/international-partners/ideanew_rgb.jpg
-#  id: idea
+- name: International IDEA
+  logo: /assets/img/logos/international-partners/ideanew_rgb.jpg
+  id: idea
 
 - name: National Endowment for Democracy
   logo: /assets/img/logos/international-partners/NED-logo.png
