@@ -1,0 +1,14 @@
+---
+title: Facial Recognition Developers Train Software with Photos of People without Their Permission
+
+date: 2019-03-212 #this is the publication date, and controls display order.
+
+# description: meta description for post.
+
+category: brief
+
+---
+
+Facial recognition software grows in sophistication every year, but this isn’t accomplished without giving AI’s “practice:” Researchers often upload millions of pictures of human faces to the recognition software that they are developing so that their programs can further develop the algorithms needed to achieve a greater depth in face-sensing capacity. Oftentimes, the pictures they utilized are provided to them by info-tech corporations like IBM, who take the photos from artistic photography websites like Flickr. [When interviewed by NBC News,][link] some photographers were alarmed or disturbed that the photos they had taken of other might be used to electronically profile other individuals. These photographers complained that IBM had not sought their permission to use the photos, nor the permission of their artistic subjects.
+
+[link]: https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921
