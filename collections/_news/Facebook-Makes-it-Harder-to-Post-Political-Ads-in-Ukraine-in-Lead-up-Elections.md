@@ -1,7 +1,7 @@
 ---
 title: Facebook Makes it Harder to Post Political Ads in Ukraine in Lead up Elections
 
-date: 2019-03 #this is the publication date, and controls display order.
+date: 2019-03-01 #this is the publication date, and controls display order.
 
 # description: meta description for post.
 
