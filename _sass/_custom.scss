@@ -31,6 +31,36 @@ a.cta {
   }
 }
 
+
+
+
+ul.resources {
+  li {width:14rem;}
+  @include breakpoint('small') {
+    li {width:10rem;}
+  }
+  a {
+    border-bottom: none;
+    &:hover {
+      h3 {
+        color: _palette(accent1,bg);
+        @include vendor('transition', (
+          'color #{_duration(transition)} ease-in-out',
+        ));
+      }
+      img {
+        opacity: .3;
+        @include vendor('transition', (
+          'opacity #{_duration(transition)} ease-in-out'
+        ));
+      }
+    }
+    img {backface-visibility: hidden;}
+    .image {background:_palette(accent1,bg);}
+  }
+}
+
+
 ul.faces {
   li {width:14rem;}
   @include breakpoint('small') {
@@ -56,6 +86,8 @@ ul.faces {
     .image {background:_palette(accent1,bg);}
   }
 }
+ 
+
 
 .partners {
   display: flex;

@@ -1,0 +1,24 @@
+---
+layout: page
+---
+<!-- Section -->
+<section class="main">
+  <header>
+    {{ content }}
+  </header>
+  <div class="inner">
+    {%- if site.resources.size > 0 -%}
+    <ul class="resources">
+      {%- for r in site.resources -%}
+      <li>
+        <a href="{{r.url | relative_url}}">
+          <span class="image"><img src="{{ r.image | relative_url }}" alt="{{ bio.title | escape }}" /></span>
+          <h3>{{ r.title | escape }}</h3>
+          <!--p>Sed magna etiam</p-->
+        </a>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  </div>
+</section>

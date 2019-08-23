@@ -48,6 +48,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:title.html
+  resources:
+    output: true
+    permalink: /:collection/:title.html
   posts:
     output: false
 
