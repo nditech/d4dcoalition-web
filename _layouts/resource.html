@@ -1,0 +1,8 @@
+---
+layout: page
+---
+    {%- if page.image -%}
+    <img src="{{page.image | relative_url}}" class="resource-image" />
+    {%- endif -%}
+    {{ content }}
+  <p><a href="{{ "/resources" | relative_url }}" class="cta">Back to Resources</a></p>

@@ -6,5 +6,5 @@ permalink: /resources/
 # intro: This is the introductory content if needed.
 ---
 
-D4D Coalition members recommend these resources to help your organization protect your organization and advocate for democratic resiliency. These are words.
+The D4D Coalition recommends these resources to help your organization protect itself and advocate for democratic resiliency. 
 

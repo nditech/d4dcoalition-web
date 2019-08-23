@@ -30,7 +30,16 @@ a.cta {
     max-width: 100%;
   }
 }
+.resource-image {
+  //border-radius: 100%;
+  display: block;
+  margin: 0 auto 3rem;
+  max-width: 23.4375rem;
 
+  @include breakpoint('xsmall') {
+    max-width: 100%;
+  }
+}
 
 
 
@@ -41,6 +50,10 @@ ul.resources {
   }
   a {
     border-bottom: none;
+    border-bottom: none;
+    background: #ddd;
+    padding: 1rem;
+    border-radius: 4px;
     &:hover {
       h3 {
         color: _palette(accent1,bg);
@@ -67,7 +80,6 @@ ul.faces {
     li {width:10rem;}
   }
   a {
-    border-bottom: none;
     &:hover {
       h3 {
         color: _palette(accent1,bg);
