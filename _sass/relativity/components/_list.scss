@@ -264,7 +264,7 @@
 					margin: 0 0 (_size(element-margin) * 0.25) 0;
 
 					img {
-						//border-radius: 100%;
+						border-radius: 2px;
 						width: 12rem;
 						//height:12rem;
 					}
@@ -335,6 +335,113 @@
 				}
 			}
 		}
+
+
+		&.resource-baseball {
+			@include vendor('display', 'flex');
+			@include vendor('align-items', 'self-start');
+			@include vendor('justify-content', 'center');
+			@include vendor('flex-wrap', 'wrap');
+			list-style: none;
+			padding-left: 0;
+
+			li {
+				@include vendor('display', 'flex');
+				@include vendor('flex-direction', 'column');
+				@include vendor('align-items', 'self-start');
+				padding-left: 0;
+				text-align: left;
+				margin: 0 0 1rem 0;
+
+				&:nth-child(3n) {
+					margin-right: 0;
+				}
+
+				> :last-child {
+					margin-bottom: 0;
+				}
+
+				.image {
+					//border-radius: 100%;
+					margin: 0 0 (_size(element-margin) * 0.25) 0;
+					padding: 1rem;
+					border-radius: 2px;
+      				background: #ddd;
+      				img {
+      					border-radius: 2px;
+					}
+				}
+
+				h3 {
+					font-size: 0.8rem;
+					margin: 0 0 (_size(element-margin) * 0.125) 0;
+					text-transform: uppercase;
+					letter-spacing: 0.05em;
+				}
+
+				p {
+					//font-size: 0.8rem;
+					margin-bottom: 1rem;
+				}
+			}
+
+			@include breakpoint(large) {
+				li {
+					margin: 0 0 1rem (_size(element-margin) * 1.5);
+				}
+			}
+
+			@include breakpoint(medium) {
+				li {
+					margin: 0 0 2rem (_size(element-margin) * 1);
+				}
+			}
+
+			@include breakpoint(small) {
+				li {
+					.image {
+						img {
+							//width: 6rem;
+							//height: 6rem;
+						}
+					}
+				}
+			}
+
+			@include breakpoint(xsmall) {
+				display: block;
+
+				li {
+					margin: 0 auto 4rem;
+					&:nth-child(3n) {
+						margin-right: auto;
+					}
+
+					.image {
+						img {
+							//width: 10rem;
+							//height:10rem;
+						}
+					}
+
+					h3 {
+						font-size: 1rem;
+					}
+
+					p {
+						font-size: 1rem;
+					}
+
+					&:last-child {
+						margin-bottom: 0;
+					}
+				}
+			}
+		}
+
+
+
+
 	}
 
 	dl {

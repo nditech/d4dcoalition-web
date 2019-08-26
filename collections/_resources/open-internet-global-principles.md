@@ -3,7 +3,7 @@ title: Democratic Principles for an Open Internet
 date: 2018-10-16 #this is the publication date, and controls display order.
 image: /assets/img/resources/democratic-prinicples-open-internet-cover.png
 
-slug: A framework for Internet openness for democracy advocates to fight for more democratic societies
+summary: An Internet openness framework for democracy advocates.
 
 # description: meta description for post.
 

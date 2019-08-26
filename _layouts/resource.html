@@ -1,8 +1,22 @@
 ---
 layout: page
 ---
-    {%- if page.image -%}
-    <img src="{{page.image | relative_url}}" class="resource-image" />
-    {%- endif -%}
-    {{ content }}
-  <p><a href="{{ "/resources" | relative_url }}" class="cta">Back to Resources</a></p>
+    <ul class="resource-baseball">
+    		<li> 
+    			{%- if page.image -%}
+    				<span class="image">
+    					<img src="{{page.image | relative_url}}" class="" />
+    				</span>
+    			{%- endif -%}
+    		</li>
+		<li class="resource-content">
+    		{{ content }}
+			{%- for link in page.links -%}
+	    		<a href = "{{link.url}}" class="">{{ link.text }}</a>
+	    	{%- endfor -%}
+			<p>
+				<a href="{{ "/resources" | relative_url }}" class="cta">Back to Resources</a>
+			</p>
+    	</li>
+
+    </ul>

@@ -4,7 +4,8 @@ layout: page
 <!-- Section -->
 <section class="main">
   <header>
-    {{ content }}
+    <span class="page-intro-slug">{{ content }}</span>
+    <hr>
   </header>
   <div class="inner">
     {%- if site.resources.size > 0 -%}
@@ -14,7 +15,7 @@ layout: page
         <a href="{{r.url | relative_url}}">
           <span class="image"><img src="{{ r.image | relative_url }}" alt="{{ bio.title | escape }}" /></span>
           <h3>{{ r.title | escape }}</h3>
-          <span>{{r.slug | escape }}</span>
+          <span>{{ r.summary | escape }}</span>
           <!--p>Sed magna etiam</p-->
         </a>
       </li>
