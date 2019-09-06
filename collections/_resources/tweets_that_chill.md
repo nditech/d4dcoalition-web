@@ -1,5 +1,5 @@
 ---
-title: Tweets that Chill: Analyzing Online Violence Against Women in Politics
+title: "Tweets that Chill: Analyzing Online Violence Against Women in Politics"
 date: 2019-06-14 #this is the publication date, and controls display order.
 
 image: assets/img/resources/NDITWEETS.PNG
