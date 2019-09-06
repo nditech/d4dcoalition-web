@@ -1,6 +1,6 @@
 ---
 title: "Sorting Fact From Fiction: Nigeria's 2019 Elections"
-date: 2019-06-01 #this is the publication date, and controls display order.
+date: 2019-07-26 #this is the publication date, and controls display order.
  
 image: assets/img/resources/sorting-fact-from-fiction-cover.PNG 
 summary: Report on factchecking during Nigeria's 2019 elections.
