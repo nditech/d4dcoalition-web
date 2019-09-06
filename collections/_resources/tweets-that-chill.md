@@ -2,13 +2,13 @@
 title: "Tweets that Chill: Analyzing Online Violence Against Women in Politics"
 date: 2019-06-14 #this is the publication date, and controls display order.
 
-image: assets/img/resources/NDITWEETS.PNG
+image: "/assets/img/resources/NDITWEETS.PNG"
 summary: NDI's Gender, Women, and Democracy team worked with women in politics, those in  civic technology and women’s rights organizations to develop a way to examine the country specific challenges facing women as they engage in online political discourse
 links:
   -text: Learn more
-   url: https://www.ndi.org/tweets-that-chill
+   url: "https://www.ndi.org/tweets-that-chill"
  - text: Download PDF in English
-    url: https://www.ndi.org/sites/default/files/NDI%20Tweets%20That%20Chill%20Report.pdf 
+    url: "https://www.ndi.org/sites/default/files/NDI%20Tweets%20That%20Chill%20Report.pdf"
     
 # description: meta description for post.
 
