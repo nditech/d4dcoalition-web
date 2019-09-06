@@ -1,5 +1,5 @@
 ---
-title: Disinformation Campaigns and Hate Speech: Exploring the Relationship and Programming Interventions
+title: "Disinformation Campaigns and Hate Speech: Exploring the Relationship and Programming Interventions"
 date: 2019-04-26 #this is the publication date, and controls display order.
  
 image: assets/img/resources/disinfo-campaigns-and-hate-speech-cover.PNG 
