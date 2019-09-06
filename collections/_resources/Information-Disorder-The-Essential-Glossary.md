@@ -1,6 +1,6 @@
 ---
 title: "Information Disorder: The Essential Glossary"
-date: 2018-07-01 #this is the publication date, and controls display order.
+date: 2018-07-09 #this is the publication date, and controls display order.
 
 image: assets/img/resources/information-disorder-glossary-cover.PNG
 summary: A glossary featuring frequently used and commonly misunderstood words, acronyms, and phrases related to information disorder.
