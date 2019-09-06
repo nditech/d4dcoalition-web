@@ -6,7 +6,7 @@ image: assets/img/resources/sorting-fact-from-fiction-cover.PNG
 summary: Report on factchecking during Nigeria's 2019 elections.
 links:
   - text: Learn more
-    url: https://www.ifes.org/publications/disinformation-campaigns-and-hate-speech-exploring-relationship-and-programming
+    url: https://www.cddwestafrica.org/sorting-fact-fiction-cdd/
   - text: Download PDF in English
     url: assets/pdf/SORTING-FACT-FROM-FICTION.pdf
     
