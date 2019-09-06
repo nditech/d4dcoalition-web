@@ -6,7 +6,7 @@ image: /assets/img/resources/NDITWEETS.PNG
 summary: NDI's Gender, Women, and Democracy team worked with women in politics, those in  civic technology and women’s rights organizations to develop a way to examine the country specific challenges facing women as they engage in online political discourse
 links:
   -text: Learn more
-   url:https://www.ndi.org/tweets-that-chill
+   url: https://www.ndi.org/tweets-that-chill
  - text: Download PDF in English
     url: https://www.ndi.org/sites/default/files/NDI%20Tweets%20That%20Chill%20Report.pdf 
     
