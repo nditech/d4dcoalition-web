@@ -2,7 +2,7 @@
 title: "Supporting Information Integrity and Civil Political Discourse"
 date: 2018-12-11 #this is the publication date, and controls display order.
 
-image: "assets/img/resources/Supporting_Info_Integrity_and_Civil_Political.png"
+image: "/assets/img/resources/Supporting_Info_Integrity_and_Civil_Political.png"
 summary: As part of a global NDI effort to promote information integrity, NDI developed an awareness-raising resource for distribution to NDI staff and local partners.
   - text: Learn more
     url: "https://www.ndi.org/publications/supporting-information-integrity-and-civil-political-discourse" 
