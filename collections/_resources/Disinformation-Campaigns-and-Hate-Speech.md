@@ -3,7 +3,7 @@ title: "Disinformation Campaigns and Hate Speech: Exploring the Relationship and
 date: 2019-04-26 #this is the publication date, and controls display order.
  
 image: assets/img/resources/disinfo-campaigns-and-hate-speech-cover.PNG 
-summary: A framework for democracy and governance practitioners to consider when countering disinformation campaigns and hate speech.
+summary: A framework for countering disinformation campaigns and hate speech.
 links:
   - text: Learn more
     url: https://www.ifes.org/publications/disinformation-campaigns-and-hate-speech-exploring-relationship-and-programming
