@@ -3,7 +3,7 @@ title: "The Cybersecurity Campaign Playbook: India Edition"
 date: 2019-03-11 #this is the publication date, and controls display order.
  
 image: assets/img/resources/cyber-security-playbook-india.PNG
-summary: A high impact, easy to understand guide to securing political campaigns in India.
+summary: A guide to securing political campaigns in India.
 links:
   - text: Learn more
     url: https://www.ndi.org/publications/cybersecurity-campaign-playbook-global-edition
