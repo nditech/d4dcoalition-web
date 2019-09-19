@@ -6,7 +6,7 @@ image: assets/img/resources/cyber-security-playbook-india.PNG
 summary: A guide to securing political campaigns in India.
 links:
   - text: Learn more
-    url: https://www.ndi.org/publications/cybersecurity-campaign-playbook-global-edition
+    url: https://www.ndi.org/sites/default/files/INCampaignPlaybook%20-%20draft3.pdf
   - text: Download PDF in English
     url: assets/pdf/indian_cybersecurity_playbook.pdf
     
@@ -14,8 +14,6 @@ links:
 
 ---
 
-This Indian Cybersecurity Campaign Playbook was written by a multi-partisan and international team of experts in cybersecurity, politics, and law to provide simple, actionable ways of countering the growing cyber threat.
+Political campaigns need to protect themselves from hacking and often don’t know where to start. The good news is that there are a few fundamentals that can dramatically reduce the likelihood and impact of cybersecurity incidents. 
 
-Cyber adversaries don’t discriminate. Campaigns at all levels – not just high-profile national campaigns – have been hacked. You should assume you are a target. While the recommendations in this playbook apply universally, it is primarily intended for parties and campaigns that don’t have the resources to hire professional cybersecurity staff. We offer basic building blocks of a cybersecurity risk mitigation strategy that people without technical training can implement (although we include some things which will require the help of an IT professional).
-
-These are baseline recommendations, not a comprehensive reference to achieve the highest level of security possible. We encourage all parties and campaigns to enlist professional input from credentialed IT and cybersecurity professionals whenever possible.
+Produced by Harvard’s Belfer Center in partnership with D4D Coalition members NDI and IRI, the Cybersecurity Campaign Playbook was adapted for an Indian context to present high impact, easy to understand cybersecurity principles and practices that every campaign should put in place. It provides an easy to understand framework for managing cybersecurity risk, an overview of how to secure your campaign, how to plan for incidents, and a Top 5 checklist.
