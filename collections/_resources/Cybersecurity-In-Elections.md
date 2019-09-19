@@ -3,7 +3,7 @@ title: "Cybersecurity in Elections"
 date: 2018-10-17 #this is the publication date, and controls display order.
  
 image: assets/img/resources/cybersecurity-elections-cover.PNG
-summary: Developing a Holistic Exposure and Adaptation Testing (HEAT) Process for Election Management Bodies
+summary: A report outlining strategies to strengthen and secure election management bodies.
 links:
   - text: Learn more
     url: https://www.ifes.org/publications/cybersecurity-elections
