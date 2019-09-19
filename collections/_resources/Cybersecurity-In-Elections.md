@@ -14,4 +14,4 @@ links:
 
 ---
 
-In a new publication, the International Foundation for Electoral Systems (IFES) outlines strategies for election management bodies (EMBs) to strengthen their technology and procedures to resist vulnerabilities, by following what we have termed a Holistic Exposure and Adaptation Testing (HEAT) process. While no electoral process or technology is infallible, the HEAT process aims to secure automated or digitalized electoral processes – as far as possible – against unanticipated threats, illicit incursions, system failures, or unfounded legal challenges.
+This report was published by the International Foundation for Electoral Systems (IFES), a member of the D4D coalition. The publication dettails a Holistic Exposure and Adaptation Testing (HEAT) process and outlines strategies that election management bodies can use to strengthen their technology and procedures to resist vulnerabilities.
