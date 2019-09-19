@@ -14,4 +14,4 @@ links:
 
 ---
 
-This report was published by the International Foundation for Electoral Systems (IFES), a member of the D4D coalition. The publication dettails a Holistic Exposure and Adaptation Testing (HEAT) process and outlines strategies that election management bodies can use to strengthen their technology and procedures to resist vulnerabilities.
+This report was published by the International Foundation for Electoral Systems (IFES), a member of the D4D coalition. The publication details a Holistic Exposure and Adaptation Testing (HEAT) process and outlines strategies that election management bodies can use to strengthen their technology and procedures to resist vulnerabilities.
