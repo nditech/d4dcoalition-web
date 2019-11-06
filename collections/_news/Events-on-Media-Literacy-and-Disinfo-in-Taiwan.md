@@ -1,7 +1,7 @@
 ---
 title: Events on Media Literacy and Disinfo in Taiwan
 
-date: 2019-10-30 #this is the publication date, and controls display order.
+date: 2019-09-11 #this is the publication date, and controls display order.
 
 # description: meta description for post.
 
