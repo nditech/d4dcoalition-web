@@ -1,7 +1,7 @@
 ---
 title: Spanish Cybersecurity Campaign Playbook Launches
 
-date: 2019-10-30 #this is the publication date, and controls display order.
+date: 2019-08-29 #this is the publication date, and controls display order.
 
 # description: meta description for post.
 
