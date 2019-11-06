@@ -6,6 +6,7 @@ date: 2019-10-30 #this is the publication date, and controls display order.
 # description: meta description for post.
 
 category: brief
+brandmark: true
 
 ---
 
