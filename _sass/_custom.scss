@@ -261,7 +261,8 @@ ul.faces {
     .post.ndi,
     .post.iri,
     .post.idea,
-    .post.ned
+    .post.ned,
+    .post.cipe
     {
       img {
         max-width: 50%;
@@ -282,6 +283,7 @@ ul.faces {
   }
 
 
+  img[src*="cipe"],
   img[src*="MSFT"]
   {
     max-width:80%;
