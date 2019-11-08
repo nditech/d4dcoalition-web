@@ -17,3 +17,7 @@
 - name: National Endowment for Democracy
   logo: /assets/img/logos/international-partners/NED-logo.png
   id: ned
+
+- name: Center for International Private Enterprise
+  logo: /assets/img/logos/international-partners/cipe.jpg
+  id: cipe
