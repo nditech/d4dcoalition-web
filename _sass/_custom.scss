@@ -198,7 +198,19 @@ ul.faces {
       padding: _size(element-margin);
     }
 
-
+    a {
+      border-bottom: none;
+      background: #fff;
+      border-radius: 0;
+      &:hover {
+        img {
+          opacity: .3;
+          @include vendor('transition', (
+            'opacity #{_duration(transition)} ease-in-out'
+          ));
+        }
+      }
+    }
   }
 }
 

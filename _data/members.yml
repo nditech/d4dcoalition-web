@@ -1,6 +1,47 @@
 #- name: National Democratic Institute
   #logo: /assets/img/logos/ndi.jpg
   #id: ndi
-- name: TechSoup
-  logo: /assets/img/logos/members/TechSoup-general-high-res-logo-PNG-2000x500.png
-  id: techsoup  
+- name: Association of Media Women in Kenya
+  logo: /assets/img/logos/members/kenya/amwik.jpeg
+  id: amwik
+  website: https://amwik.org
+  group: kenya  
+- name: Centre for Rights Education and Awareness
+  logo: /assets/img/logos/members/kenya/creaw.jpeg
+  id: creaw  
+  website: https://creawkenya.org 
+  group: kenya 
+- name: Development Through Media
+  logo: /assets/img/logos/members/kenya/development-through-media.jpg
+  id: developmentthroughmedia
+  website: http://dtmafrica.com
+  group: kenya   
+- name: Miabi Creatives
+  logo: /assets/img/logos/members/kenya/miabi-creatives.png
+  id: miabicreatives
+  website: https://www.facebook.com/miabicreatives/
+  group: kenya 
+- name: PesaCheck
+  logo: /assets/img/logos/members/kenya/pesa-check.png
+  id: pesacheck
+  website: https://pesacheck.org
+  group: kenya   
+- name: Proficient Communications
+  logo: /assets/img/logos/members/kenya/proficient-communications.png
+  id: proficientcommunications
+  website: 
+  group: kenya   
+- name: Siasa Place
+  logo: /assets/img/logos/members/kenya/siasa-place.jpeg
+  id: siasaplace
+  website: https://siasaplace.com
+  group: kenya 
+- name: Women's Empowerment Link
+  logo: /assets/img/logos/members/kenya/womens-empowerment-link.png
+  id: womensempowermentlink
+  website: https://www.wel.or.ke
+  group: kenya   
+- name: Youth Agenda
+  logo: /assets/img/logos/members/kenya/youth-agenda.jpeg
+  id: youthagenda
+  group: kenya    

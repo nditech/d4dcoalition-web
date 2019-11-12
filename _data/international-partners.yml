@@ -1,23 +1,34 @@
 - name: National Democratic Institute
   logo: /assets/img/logos/international-partners/ndi.png
   id: ndi
+  website: https://www.ndi.org/
   
 - name: International Republican Institute
   logo: /assets/img/logos/international-partners/iri.jpg
   id: iri
+  website: https://www.iri.org/
 
 - name: International Foundation for Electoral Systems
   logo: /assets/img/logos/international-partners/IFES Name Horizontal Logo Blue.png
   id: ifes
+  website: https://www.ifes.org/
 
 - name: International IDEA
   logo: /assets/img/logos/international-partners/ideanew_rgb.jpg
   id: idea
+  website: https://www.idea.int/
 
 - name: National Endowment for Democracy
   logo: /assets/img/logos/international-partners/NED-logo.png
   id: ned
+  website: https://www.ned.org/
 
 - name: Center for International Private Enterprise
   logo: /assets/img/logos/international-partners/cipe.jpg
   id: cipe
+  website: https://www.cipe.org/
+
+- name: TechSoup
+  logo: /assets/img/logos/members/TechSoup-general-high-res-logo-PNG-2000x500.png
+  id: techsoup
+  website: https://www.techsoup.org/    

@@ -3,7 +3,14 @@
     <div class="content">
       <ul class="partners">
       {%- for partner in site.data.members -%}
-        <li class="post {{partner.id}}"><img src="{{ partner.logo | relative_url }}" alt="{{ partner.name | escape }}" /></li>
+        <li class="post {{partner.id}}">
+          {% if partner.website %}
+            <a href="{{ partner.website }}">
+          {% endif %}
+              <img src="{{ partner.logo | relative_url }}" alt="{{ partner.name | escape }}" /></li>
+          {% if partner.website %}
+            </a>
+          {% endif %}
       {%- endfor -%}
       </ul>
     </div>
