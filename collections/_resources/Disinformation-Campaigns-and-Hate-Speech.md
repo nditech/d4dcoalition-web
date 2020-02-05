@@ -8,7 +8,7 @@ links:
   - text: Learn more
     url: https://www.ifes.org/publications/disinformation-campaigns-and-hate-speech-exploring-relationship-and-programming
   - text: Download PDF in English
-    url: assets/pdf/2019_ifes_disinformation_campaigns_and_hate_speech_briefing_paper.pdf
+    url: /assets/pdf/2019_ifes_disinformation_campaigns_and_hate_speech_briefing_paper.pdf
     
 # description: meta description for post.
 

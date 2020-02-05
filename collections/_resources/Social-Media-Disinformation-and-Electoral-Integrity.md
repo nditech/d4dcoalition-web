@@ -8,7 +8,7 @@ links:
   - text: Learn more
     url: https://www.ifes.org/publications/social-media-disinformation-and-electoral-integrity
   - text: Download PDF in English
-    url: assets/pdf/ifes_working_paper_social_media_disinformation_and_electoral_integrity_august_2019_0.pdf 
+    url: /assets/pdf/ifes_working_paper_social_media_disinformation_and_electoral_integrity_august_2019_0.pdf 
 
 # description: meta description for post.
 

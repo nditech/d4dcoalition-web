@@ -8,7 +8,7 @@ links:
   - text: Learn more
     url: https://www.ndi.org/sites/default/files/INCampaignPlaybook%20-%20draft3.pdf
   - text: Download PDF in English
-    url: assets/pdf/indian_cybersecurity_playbook.pdf
+    url: /assets/pdf/indian_cybersecurity_playbook.pdf
     
 # description: meta description for post.
 

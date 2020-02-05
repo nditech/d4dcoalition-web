@@ -12,4 +12,4 @@ Frightened mobs in India [have killed two dozen innocent people][link] as false 
 [link]: https://www.nytimes.com/interactive/2018/07/18/technology/whatsapp-india-killings.html
 [link2]: https://www.washingtonpost.com/business/economy/on-whatsapp-fake-news-is-fast--and-can-be-fatal/2018/07/23/a2dd7112-8ebf-11e8-bcd5-9d911c784c38_story.html?utm_term=.d0e98003128f
 [link3]: https://www.poynter.org/news/whatsapp-limiting-message-forwarding-cut-down-fake-news
-[link4]: http://amp.poynter.org/news/whatsapp-its-misinformation-problem-fact-checking-going-be-essential?__twitter_impression=true
+[link4]: https://www.poynter.org/fact-checking/2018/whatsapp-on-its-misinformation-problem-%c2%91fact-checking-is-going-to-be-essential%c2%92/

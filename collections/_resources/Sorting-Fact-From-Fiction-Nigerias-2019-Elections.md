@@ -8,7 +8,7 @@ links:
   - text: Learn more
     url: https://www.cddwestafrica.org/sorting-fact-fiction-cdd/
   - text: Download PDF in English
-    url: assets/pdf/SORTING-FACT-FROM-FICTION.pdf
+    url: /assets/pdf/SORTING-FACT-FROM-FICTION.pdf
     
 # description: meta description for post.
 

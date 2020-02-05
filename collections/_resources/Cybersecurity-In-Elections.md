@@ -8,7 +8,7 @@ links:
   - text: Learn more
     url: https://www.ifes.org/publications/cybersecurity-elections
   - text: Download PDF in English
-    url: assets/pdf/cybersecurity-in-elections.pdf
+    url: /assets/pdf/cybersecurity-in-elections.pdf
     
 # description: meta description for post.
 

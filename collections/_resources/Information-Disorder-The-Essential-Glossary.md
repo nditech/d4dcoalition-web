@@ -8,7 +8,7 @@ links:
   - text: Learn more
     url: https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3
   - text: Download PDF in English
-    url: assets/pdf/infoDisorder_glossary.pdf
+    url: /assets/pdf/infoDisorder_glossary.pdf
     
 # description: meta description for post.
 

@@ -8,7 +8,7 @@ links:
   - text: Learn more
     url: https://en.unesco.org/fightfakenews
   - text: Download PDF in English
-    url: assets/pdf/journalism-fake-news-and-disinformation-handbook.pdf
+    url: /assets/pdf/journalism-fake-news-and-disinformation-handbook.pdf
     
 # description: meta description for post.
 
